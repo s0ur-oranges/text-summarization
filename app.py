@@ -11,7 +11,6 @@ from nltk import word_tokenize
 from nltk.stem import WordNetLemmatizer, PorterStemmer
 from sklearn.feature_extraction.text import TfidfVectorizer
 import time
-import image
 import streamlit as st
 
 
